@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SQL, Prisma, Next Js and others**
 
-- 👨‍💻 All of my projects are available at [https://helpful-speculoos-1507e0.netlify.app/](https://helpful-speculoos-1507e0.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://rubayet-billah.netlify.app/](https://rubayet-billah.netlify.app/)
 
 - 📫 How to reach me **rubayetbillah909@gmail.com**
 
