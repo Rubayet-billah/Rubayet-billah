@@ -11,8 +11,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1V8r_viLpTSHNcx10_cIsy3Reox-S6_WR/view](https://drive.google.com/file/d/1V8r_viLpTSHNcx10_cIsy3Reox-S6_WR/view)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rubayet-billah&hide=contribs,prs)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rubayet-billah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rubayet-billah/" height="30" width="40" /></a>
